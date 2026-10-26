@@ -2,7 +2,7 @@
 
 **Teach your AI assistant to make pro images and video.**
 
-Emero turns your AI assistant, like Claude or ChatGPT, into a creative director. Connect it once and ask for images, video, music or speech in plain words. It runs the model you pick: Kling 3.0, Seedance 2.5, Nano Banana Pro, GPT Image 2.5 and more.
+Emero turns your AI assistant, like Claude or ChatGPT, into a creative director. Connect it once and ask for images, video, music or speech in plain words. It runs the model you pick: Kling 4.0, Seedance 2.5, Nano Banana Pro, GPT Image 2.5 and more.
 
 Behind it is a second brain. Every generation teaches it something: what a model is good at, which prompt fixed a problem, which look your brand keeps. Emero saves those lessons for your brand and uses them on the next prompt, so results get better the more you make.
 
