@@ -1,5 +1,7 @@
 # Emero MCP server
 
+[![Listed on mcpservers.org](https://mcpservers.org/badge.svg)](https://mcpservers.org/servers/emeroai/emero-mcp)
+
 **Teach your AI assistant to make pro images and video.**
 
 Emero turns your AI assistant, like Claude or ChatGPT, into a creative director. Connect it once and ask for images, video, music or speech in plain words. It runs the model you pick: Kling 4.0, Seedance 2.5, Nano Banana Pro, GPT Image 2.5 and more.
